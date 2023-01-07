@@ -1,12 +1,17 @@
 # ssh
 
+
 ## Specifiy key per host
 Modify file `~/.ssh/config`
-```bash
+```
 Host github.com
-	Hostname github.com
 	IdentityFile ~/.ssh/id_github
 	IdentitiesOnly yes
 ```
-### solves bugs
-- `ssh -T git@github.com`
+
+
+## Set keys between your own machines
+```bash
+ssh-keygen
+ssh-copy-id -i ~/.ssh/id_my_machine user@remote
+```
