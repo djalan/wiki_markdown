@@ -4,6 +4,10 @@
 | Acronyms | Definition |
 | - | - |
 | 3! | 3-bet
+| 4! | 4-bet
+| AI | all-in
+| BFD | backdoor flush draw
+| BSD | backdoor straight draw
 | BDSD | backdoor straight draw
 | BDFD | backdoor flush draw
 | BDNFD | backdoor nut flush draw
@@ -21,7 +25,9 @@
 | pre | preflop
 | PRF | preflop raiser
 | RFI | raise first in
-| SC |  suited connectors
+| SC | suited connectors
+| SG | suited gappers
+| SPR | stack-to-pot-ratio
 | TPTK | top pair top kicker
 | xb | check back
 | xc | check call
