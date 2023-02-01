@@ -1,7 +1,7 @@
 # Red Chip Poker
 
-## Acronyms for Discord
-| Acronyms | Definition |
+## Acronyms
+| Acronym | Definition |
 | - | - |
 | 3! | 3-bet
 | 4! | 4-bet
@@ -23,7 +23,7 @@
 | OTT | on the turn
 | PFA | preflop aggressor
 | pre | preflop
-| PRF | preflop raiser
+| PFR | preflop raiser
 | RFI | raise first in
 | SC | suited connectors
 | SG | suited gappers
@@ -36,3 +36,15 @@
 | xr | check-raise
 | V | villain
 | YMMV | ??
+
+## Positions
+| Position | Definition |
+| - | - |
+| SB | small blind
+| BB | big blind
+| UTG | under the gun
+| UTG+1 | first after under the gun
+| LJ | lojack
+| HJ | hijack
+| CO | cutoff
+| BTN | button
