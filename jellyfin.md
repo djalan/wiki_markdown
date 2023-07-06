@@ -63,3 +63,8 @@ Very cool and 5$ only for great notifications iOS / Android / Chrome
 - NotSupported 2023-01-03
 ### Webhook
 - Malfunctioned 2023-01-03
+
+
+## bandwith
+### Fedora 6x from 2TB to SSD
+- 170 M bytes/sec

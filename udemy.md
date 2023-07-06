@@ -12,3 +12,27 @@
 
 
 ### I KNOW EVERYTHING OF TOP LINUX ADMIN COURSE
+
+grafana
+prometheus @ amazon??
+splunk
+
+docker captain course
+
+stephane maarek
+
+devops engineer like nana
+digitalocean
+
+microservices: cool cours java kafka spring
+
+git course too
+
+hashicorp
+terraform automate infra on any cloud
+packer
+
+ansible versus packer?
+
+openstack
+vmware vsphere
