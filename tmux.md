@@ -12,3 +12,9 @@ Useful when lost SSH connection
 ## Rename window
 - `renamew myself`
 - `renamew -t number new_name`
+
+## kill-session
+```bash
+tmux ls
+tmux kill-session -t 0
+```
